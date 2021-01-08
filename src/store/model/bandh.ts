@@ -19,6 +19,55 @@ export const BAndH: Store = {
   },
   links: [
     {
+      brand: 'asus',
+      model: 'ekwb',
+      series: '3080',
+      url:
+        'https://www.bhphotovideo.com/c/product/1614303-REG/asus_rtx3080_10g_ek_ekwb_geforce_rtx_3080.html'
+    },
+    {
+      brand: 'asus',
+      model: 'strix oc',
+      series: '3080',
+      url:
+        'https://www.bhphotovideo.com/c/product/1603617-REG/asus_rog_strix_rtx3080_o10g_gaming_rog_strix_geforce_rtx.html'
+    },
+    {
+      brand: 'asus',
+      model: 'strix white',
+      series: '3080',
+      url:
+        'https://www.bhphotovideo.com/c/product/1614301-REG/asus_rog_strix_rtx3080_o10g_white_rog_strix_geforce_rtx.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus master',
+      series: '3080',
+      url:
+        'https://www.bhphotovideo.com/c/product/1599834-REG/gigabyte_gv_n3080aorus_m_10gd_aorus_geforce_rtx_3080.html'
+    },
+    {
+      brand: 'gigabyte',
+      model: 'vision oc',
+      series: '3080',
+      url:
+        'https://www.bhphotovideo.com/c/product/1599836-REG/gigabyte_gv_n3080vision_oc_10gd_geforce_rtx_3080_vision.html'
+    },
+    {
+      brand: 'pny',
+      model: 'xlr8 uprising',
+      series: '3080',
+      url:
+        'https://www.bhphotovideo.com/c/product/1595780-REG/pny_technologies_vcg308010tfxmpb_geforce_rtx_3080_10gb.html'
+    },
+    {
+      brand: 'pny',
+      model: 'xlr8 uprising',
+      series: '3090',
+      url:
+        'https://www.bhphotovideo.com/c/product/1595781-REG/pny_technologies_vcg309024tfxmpb_geforce_rtx_3090_24gb.html'
+    },
+    {
       brand: 'test:brand',
       model: 'test:model',
       series: 'test:series',

@@ -14,6 +14,34 @@ export const BestBuy: Store = {
   },
   links: [
     {
+      brand: 'evga',
+      cartUrl: 'https://api.bestbuy.com/click/-/6434198/cart',
+      model: 'xc3 ultra',
+      series: '3090',
+      url: 'https://api.bestbuy.com/click/-/6434198/pdp'
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl: 'https://api.bestbuy.com/click/-/6437910/cart',
+      model: 'aorus master',
+      series: '3090',
+      url: 'https://api.bestbuy.com/click/-/6437910/pdp'
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl: 'https://api.bestbuy.com/click/-/6445108/cart',
+      model: 'vision',
+      series: '3090',
+      url: 'https://api.bestbuy.com/click/-/6445108/pdp'
+    },
+    {
+      brand: 'pny',
+      cartUrl: 'https://api.bestbuy.com/click/-/6432656/cart',
+      model: 'xlr8 revel',
+      series: '3090',
+      url: 'https://api.bestbuy.com/click/-/6432656/pdp'
+    },
+    {
       brand: 'test:brand',
       model: 'test:model',
       series: 'test:series',

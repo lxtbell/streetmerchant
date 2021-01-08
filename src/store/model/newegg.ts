@@ -33,6 +33,26 @@ export const Newegg: Store = {
     ],
   },
   links: [
+      {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932371',
+      itemNumber: '14-932-371',
+      model: 'aorus xtreme waterforce wb',
+      series: '3080',
+      url:
+        'https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080aorusx-wb-10gd/p/N82E16814932371'
+    },
+    {
+      brand: 'pny',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814133810',
+      itemNumber: '14-133-810',
+      model: 'xlr8 uprising',
+      series: '3080',
+      url:
+        'https://www.newegg.com/pny-geforce-rtx-3080-vcg308010tfxmpb/p/N82E16814133810'
+    },
     {
       brand: 'test:brand',
       model: 'test:model',
