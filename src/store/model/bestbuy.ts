@@ -14,6 +14,41 @@ export const BestBuy: Store = {
   },
   links: [
     {
+      brand: 'asus',
+      cartUrl: 'https://api.bestbuy.com/click/-/6455824/cart',
+      model: 'prebuilt',
+      series: '3080-prebuilt',
+      url: 'https://api.bestbuy.com/click/-/6455824/pdp'
+    },
+    {
+      brand: 'cyberpowerpc',
+      cartUrl: 'https://api.bestbuy.com/click/-/6428081/cart',
+      model: 'prebuilt',
+      series: '3080-prebuilt',
+      url: 'https://api.bestbuy.com/click/-/6428081/pdp'
+    },
+    {
+      brand: 'cyberpowerpc',
+      cartUrl: 'https://api.bestbuy.com/click/-/6428082/cart',
+      model: 'prebuilt',
+      series: '3080-prebuilt',
+      url: 'https://api.bestbuy.com/click/-/6428082/pdp'
+    },
+    {
+      brand: 'cyberpowerpc',
+      cartUrl: 'https://api.bestbuy.com/click/-/6430875/cart',
+      model: 'prebuilt',
+      series: '3080-prebuilt',
+      url: 'https://api.bestbuy.com/click/-/6430875/pdp'
+    },
+    {
+      brand: 'ibuypower',
+      cartUrl: 'https://api.bestbuy.com/click/-/6455410/cart',
+      model: 'prebuilt',
+      series: '3080-prebuilt',
+      url: 'https://api.bestbuy.com/click/-/6455410/pdp'
+    },
+    {
       brand: 'evga',
       cartUrl: 'https://api.bestbuy.com/click/-/6434198/cart',
       model: 'xc3 ultra',
